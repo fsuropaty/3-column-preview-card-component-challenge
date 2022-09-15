@@ -5,6 +5,7 @@
 @layer base {
   body {
     font-size: 15px;
+    background-color: #f2f2f2;
   }
   h1 {
     @apply font-big-shoulder-display uppercase text-very-light-gray text-4xl;
@@ -17,6 +18,6 @@
     @apply font-lexend-deca bg-very-light-gray px-4 py-3 rounded-full w-3/5 hover:bg-opacity-0 hover:text-very-light-gray hover:ring-2 hover:ring-white;
   }
   section {
-    @apply grid gap-8 p-9;
+    @apply grid gap-8 p-9 lg:gap-10 lg:p-12;
   }
 }

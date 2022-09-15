@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontendmentor.io](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-/hub/3column-preview-card-component-epy8DTqdFt)
+- Solution URL: [Frontendmentor.io](https://www.frontendmentor.io/solutions/3column-preview-card-component-challenge-using-tailwind-css-MsOTdPB2j4)
 - Live Site URL: [fsuropaty.github.io](https://fsuropaty.github.io/3-column-preview-card-component-challenge/)
 
 ## My process

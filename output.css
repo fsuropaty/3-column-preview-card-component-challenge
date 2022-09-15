@@ -412,6 +412,7 @@ video {
 
 body {
   font-size: 15px;
+  background-color: #f2f2f2;
 }
 
 h1 {
@@ -461,6 +462,13 @@ section {
   display: grid;
   gap: 2rem;
   padding: 2.25rem;
+}
+
+@media (min-width: 1024px) {
+  section {
+    gap: 2.5rem;
+    padding: 3rem;
+  }
 }
 
 *, ::before, ::after {
