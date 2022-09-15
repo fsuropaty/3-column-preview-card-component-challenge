@@ -23,7 +23,7 @@ This is a solution to the [3-column preview card component challenge on Frontend
 Users should be able to:
 
 - View the optimal layout for the component depending on their device's screen size
-- See a hover state on desktop for the Sign Up call-to-action
+- See hover states for interactive elements
 
 ### Screenshot
 
@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Frontendmentor.io](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-/hub/3column-preview-card-component-epy8DTqdFt)
-- Live Site URL: [fsuropaty.github.io](https://fsuropaty.github.io/)
+- Live Site URL: [fsuropaty.github.io](https://fsuropaty.github.io/3-column-preview-card-component-challenge/)
 
 ## My process
 
